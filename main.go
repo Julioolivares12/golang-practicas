@@ -9,4 +9,5 @@ func main() {
 		op.Ls()
 	*/
 	jsonrd.JsonReader()
+	jsonrd.JsonDecode()
 }
